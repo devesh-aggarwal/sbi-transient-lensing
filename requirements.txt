@@ -3,3 +3,6 @@ matplotlib
 astropy
 lenstronomy
 tqdm
+torch
+sbi
+ipywidgets
